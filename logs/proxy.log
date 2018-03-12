@@ -1,0 +1,1494 @@
+7: "GET http://www.espn.com/ HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:41 2018
+7: not in cache
+7: Requesting "GET http://www.espn.com/ HTTP/1.1" from www.espn.com
+7: Received "HTTP/1.1 200 OK" from www.espn.com
+7: cached, but requires re-validation
+7: Responding "HTTP/1.1 200 OK"
+8: "GET http://a.espncdn.com/redesign/0.389.10/css/page.css HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+8: not in cache
+9: "GET http://a.espncdn.com/redesign/0.389.10/js/espn-head.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+9: not in cache
+10: "GET http://cdn.espn.com/core/format/modules/head/i18n?edition-host=espn.com&lang=en&region=us&site=espn&site-type=full&type=ext&build=0.389.10.1&edition-view=espn-en-us&edition=espn-en-us HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+10: not in cache
+11: "GET http://a.espncdn.com/redesign/fonts/base64-benton-woff.css HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+11: not in cache
+8: Requesting "GET http://a.espncdn.com/redesign/0.389.10/css/page.css HTTP/1.1" from a.espncdn.com
+9: Requesting "GET http://a.espncdn.com/redesign/0.389.10/js/espn-head.js HTTP/1.1" from a.espncdn.com
+10: Requesting "GET http://cdn.espn.com/core/format/modules/head/i18n?edition-host=espn.com&lang=en&region=us&site=espn&site-type=full&type=ext&build=0.389.10.1&edition-view=espn-en-us&edition=espn-en-us HTTP/1.1" from cdn.espn.com
+9: Received "HTTP/1.1 200 OK" from a.espncdn.com
+9: cached, expires at Sun Apr 29 18:57:06 2018
+9: Responding "HTTP/1.1 200 OK"
+10: Received "HTTP/1.1 200 OK" from cdn.espn.com
+10: cached, expires at Wed Mar  7 18:56:22 2018
+10: Responding "HTTP/1.1 200 OK"
+8: Received "HTTP/1.1 200 OK" from a.espncdn.com
+11: Requesting "GET http://a.espncdn.com/redesign/fonts/base64-benton-woff.css HTTP/1.1" from a.espncdn.com
+12: "GET http://a.espncdn.com/redesign/0.389.10/css/shell-desktop.css HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+12: Requesting "GET http://a.espncdn.com/redesign/0.389.10/css/shell-desktop.css HTTP/1.1" from a.espncdn.com
+13: "GET http://a.espncdn.com/redesign/0.389.10/node_modules/espn-lazysizes/lazysizes.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+13: Requesting "GET http://a.espncdn.com/redesign/0.389.10/node_modules/espn-lazysizes/lazysizes.js HTTP/1.1" from a.espncdn.com
+14: "GET http://a.espncdn.com/redesign/0.389.10/css/one-feed-v1.css HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+14: Requesting "GET http://a.espncdn.com/redesign/0.389.10/css/one-feed-v1.css HTTP/1.1" from a.espncdn.com
+12: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+12: Responding "HTTP/1.1 304 Not Modified"
+13: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+13: Responding "HTTP/1.1 304 Not Modified"
+14: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+14: Responding "HTTP/1.1 304 Not Modified"
+11: Received "HTTP/1.1 200 OK" from a.espncdn.com
+8: cached, expires at Sun Apr 29 18:46:16 2018
+8: Responding "HTTP/1.1 200 OK"
+11: cached, expires at Thu Mar 22 23:23:19 2018
+11: Responding "HTTP/1.1 200 OK"
+15: "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnhl.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+15: not in cache
+16: "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fflb.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+16: not in cache
+17: "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fchampweek.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+17: not in cache
+18: "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fbracketology.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+18: not in cache
+19: "GET http://a1.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dmma.png&w=80&h=80&scale=crop&cquality=40&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+19: not in cache
+20: "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+20: not in cache
+21: "GET http://a1.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dbasketball.png&w=80&h=80&scale=crop&cquality=40&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+21: not in cache
+22: "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+22: not in cache
+23: "GET http://a3.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dfootball%2Dcollege.png&w=80&h=80&scale=crop&cquality=40&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+23: not in cache
+24: "GET http://a4.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Flogos%2Flogo%2D538%2D24x31.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+24: not in cache
+25: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fundefeated.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+25: not in cache
+15: Requesting "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnhl.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a2.espncdn.com
+16: Requesting "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fflb.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a3.espncdn.com
+15: Received "HTTP/1.1 304 Not Modified" from a2.espncdn.com
+15: Responding "HTTP/1.1 304 Not Modified"
+16: Received "HTTP/1.1 200 OK" from a3.espncdn.com
+16: cached, expires at Sat Apr  7 04:43:25 2018
+16: Responding "HTTP/1.1 200 OK"
+26: "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fdoubletruck.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+26: not in cache
+17: Requesting "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fchampweek.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a4.espncdn.com
+18: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fbracketology.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a1.espncdn.com
+19: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dmma.png&w=80&h=80&scale=crop&cquality=40&location=origin HTTP/1.1" from a1.espncdn.com
+17: Received "HTTP/1.1 304 Not Modified" from a4.espncdn.com
+17: Responding "HTTP/1.1 304 Not Modified"
+20: Requesting "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a4.espncdn.com
+18: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+18: Responding "HTTP/1.1 304 Not Modified"
+28: "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fespnw.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+28: not in cache
+21: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dbasketball.png&w=80&h=80&scale=crop&cquality=40&location=origin HTTP/1.1" from a1.espncdn.com
+19: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+19: Responding "HTTP/1.1 304 Not Modified"
+22: Requesting "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a4.espncdn.com
+20: Received "HTTP/1.1 304 Not Modified" from a4.espncdn.com
+20: Responding "HTTP/1.1 304 Not Modified"
+23: Requesting "GET http://a3.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dfootball%2Dcollege.png&w=80&h=80&scale=crop&cquality=40&location=origin HTTP/1.1" from a3.espncdn.com
+21: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+21: Responding "HTTP/1.1 304 Not Modified"
+24: Requesting "GET http://a4.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Flogos%2Flogo%2D538%2D24x31.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a4.espncdn.com
+22: Received "HTTP/1.1 304 Not Modified" from a4.espncdn.com
+22: Responding "HTTP/1.1 304 Not Modified"
+25: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fundefeated.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a.espncdn.com
+23: Received "HTTP/1.1 200 OK" from a3.espncdn.com
+23: cached, expires at Sat Apr  7 23:47:59 2018
+23: Responding "HTTP/1.1 200 OK"
+24: Received "HTTP/1.1 304 Not Modified" from a4.espncdn.com
+24: Responding "HTTP/1.1 304 Not Modified"
+25: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+25: Responding "HTTP/1.1 304 Not Modified"
+29: "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fespnfc_circle_500.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+29: not in cache
+30: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fxgames.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+30: not in cache
+26: Requesting "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fdoubletruck.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a3.espncdn.com
+27: "GET http://a.espncdn.com/redesign/0.389.10/js/espn-critical.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+27: Requesting "GET http://a.espncdn.com/redesign/0.389.10/js/espn-critical.js HTTP/1.1" from a.espncdn.com
+28: Requesting "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fespnw.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a2.espncdn.com
+26: Received "HTTP/1.1 304 Not Modified" from a3.espncdn.com
+26: Responding "HTTP/1.1 304 Not Modified"
+29: Requesting "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fespnfc_circle_500.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a4.espncdn.com
+27: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+27: Responding "HTTP/1.1 304 Not Modified"
+30: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fxgames.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a.espncdn.com
+31: "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fsec_network.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+31: not in cache
+28: Received "HTTP/1.1 304 Not Modified" from a2.espncdn.com
+28: Responding "HTTP/1.1 304 Not Modified"
+29: Received "HTTP/1.1 304 Not Modified" from a4.espncdn.com
+29: Responding "HTTP/1.1 304 Not Modified"
+30: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+30: Responding "HTTP/1.1 304 Not Modified"
+31: Requesting "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fsec_network.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a3.espncdn.com
+31: Received "HTTP/1.1 304 Not Modified" from a3.espncdn.com
+31: Responding "HTTP/1.1 304 Not Modified"
+32: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fmobile%2Fwebsite%2Fimg%2Fflm%2Dapp%2Dtile.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+32: not in cache
+32: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fmobile%2Fwebsite%2Fimg%2Fflm%2Dapp%2Dtile.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a.espncdn.com
+32: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+32: Responding "HTTP/1.1 304 Not Modified"
+34: "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Ffacebook.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+34: not in cache
+36: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fsn.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+36: not in cache
+35: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fmobile%2Fwebsite%2Fimg%2Fespn_app_72@2x.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+35: not in cache
+34: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Ffacebook.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a1.espncdn.com
+33: "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Ftwitter.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+33: not in cache
+36: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fsn.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a.espncdn.com
+35: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fmobile%2Fwebsite%2Fimg%2Fespn_app_72@2x.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a.espncdn.com
+34: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+34: Responding "HTTP/1.1 304 Not Modified"
+36: Received "HTTP/1.1 200 OK" from a.espncdn.com
+36: cached, expires at Sun Apr 22 17:20:58 2018
+36: Responding "HTTP/1.1 200 OK"
+33: Requesting "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Ftwitter.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a2.espncdn.com
+35: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+35: Responding "HTTP/1.1 304 Not Modified"
+37: "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fyoutube.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+37: not in cache
+38: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fsnapchat.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+38: not in cache
+33: Received "HTTP/1.1 304 Not Modified" from a2.espncdn.com
+33: Responding "HTTP/1.1 304 Not Modified"
+37: Requesting "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fyoutube.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a3.espncdn.com
+39: "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Finstagram.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+39: not in cache
+38: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fsnapchat.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a.espncdn.com
+37: Received "HTTP/1.1 304 Not Modified" from a3.espncdn.com
+37: Responding "HTTP/1.1 304 Not Modified"
+38: Received "HTTP/1.1 200 OK" from a.espncdn.com
+38: cached, expires at Thu Apr 26 01:35:11 2018
+38: Responding "HTTP/1.1 200 OK"
+39: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Finstagram.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a1.espncdn.com
+40: "GET http://a2.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Flogos%2FespnDailyLogo%2D45x45.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+40: not in cache
+39: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+39: Responding "HTTP/1.1 304 Not Modified"
+41: "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fdailycal_square.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+41: not in cache
+40: Requesting "GET http://a2.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Flogos%2FespnDailyLogo%2D45x45.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a2.espncdn.com
+40: Received "HTTP/1.1 304 Not Modified" from a2.espncdn.com
+40: Responding "HTTP/1.1 304 Not Modified"
+41: Requesting "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fdailycal_square.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a2.espncdn.com
+42: "GET http://a.espncdn.com/test/fancyLogo2.svg HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:42 2018
+42: Requesting "GET http://a.espncdn.com/test/fancyLogo2.svg HTTP/1.1" from a.espncdn.com
+41: Received "HTTP/1.1 304 Not Modified" from a2.espncdn.com
+41: Responding "HTTP/1.1 304 Not Modified"
+42: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+42: Responding "HTTP/1.1 304 Not Modified"
+43: "GET http://a3.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2018%2F0302%2Fdm_180302_nba_jazz_gobert_oop%2Fdm_180302_nba_jazz_gobert_oop.jpg&w=1600&h=640&scale=crop&cquality=40&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:43 2018
+43: not in cache
+43: Requesting "GET http://a3.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2018%2F0302%2Fdm_180302_nba_jazz_gobert_oop%2Fdm_180302_nba_jazz_gobert_oop.jpg&w=1600&h=640&scale=crop&cquality=40&location=origin HTTP/1.1" from a3.espncdn.com
+45: "GET http://a.espncdn.com/redesign/assets/img/icons/icon-search.png HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:43 2018
+45: Responding "HTTP/1.1 504 Bad Timeout"
+43: Received "HTTP/1.1 304 Not Modified" from a3.espncdn.com
+43: Responding "HTTP/1.1 304 Not Modified"
+44: "GET http://a.espncdn.com/redesign/assets/img/logos/logo-espn-82x20.png HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:43 2018
+44: Requesting "GET http://a.espncdn.com/redesign/assets/img/logos/logo-espn-82x20.png HTTP/1.1" from a.espncdn.com
+44: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+44: Responding "HTTP/1.1 304 Not Modified"
+47: "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/logos/logo-538-24x31.png&h=32&w=32 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:43 2018
+47: not in cache
+46: "GET http://a.espncdn.com/redesign/assets/img/logos/flb-homepage-signup-module-header-light.png HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:43 2018
+46: Requesting "GET http://a.espncdn.com/redesign/assets/img/logos/flb-homepage-signup-module-header-light.png HTTP/1.1" from a.espncdn.com
+47: Requesting "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/logos/logo-538-24x31.png&h=32&w=32 HTTP/1.1" from a.espncdn.com
+46: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+46: Responding "HTTP/1.1 304 Not Modified"
+47: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+47: Responding "HTTP/1.1 304 Not Modified"
+48: "GET http://a.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0301%2Fr335015_1296x864_3%2D2.jpg&w=360&h=240&scale=crop&cquality=40&location=center HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:43 2018
+48: not in cache
+49: "GET http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0302%2Fr335524_1296x864_3%2D2.jpg&w=360&h=240&scale=crop&cquality=40&location=center HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:43 2018
+49: not in cache
+48: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0301%2Fr335015_1296x864_3%2D2.jpg&w=360&h=240&scale=crop&cquality=40&location=center HTTP/1.1" from a.espncdn.com
+49: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0302%2Fr335524_1296x864_3%2D2.jpg&w=360&h=240&scale=crop&cquality=40&location=center HTTP/1.1" from a1.espncdn.com
+48: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+48: Responding "HTTP/1.1 304 Not Modified"
+49: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+49: Responding "HTTP/1.1 304 Not Modified"
+50: "GET http://a.espncdn.com/redesign/0.389.10/js/espn-defer.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:43 2018
+50: Requesting "GET http://a.espncdn.com/redesign/0.389.10/js/espn-defer.js HTTP/1.1" from a.espncdn.com
+51: "GET http://a.espncdn.com/redesign/0.389.10/js/espn-defer-low.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:43 2018
+51: Requesting "GET http://a.espncdn.com/redesign/0.389.10/js/espn-defer-low.js HTTP/1.1" from a.espncdn.com
+50: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+50: Responding "HTTP/1.1 304 Not Modified"
+51: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+51: Responding "HTTP/1.1 304 Not Modified"
+52: "GET http://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0223%2Fr332262_608x342_16%2D9.jpg&w=544&h=306&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:43 2018
+52: not in cache
+54: "GET http://a1.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2018%2F0302%2Fdm_180302_Carr_finds_Reaves_for_go_ahead_slam_for_Penn_State%2Fdm_180302_Carr_finds_Reaves_for_go_ahead_slam_for_Penn_State.jpg&w=1296&h=729&scale=crop&cquality=40&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:43 2018
+54: not in cache
+52: Requesting "GET http://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0223%2Fr332262_608x342_16%2D9.jpg&w=544&h=306&scale=crop&cquality=80&location=origin HTTP/1.1" from a2.espncdn.com
+53: "GET http://a.espncdn.com/redesign/0.389.10/js/espn-analytics.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:43 2018
+53: Requesting "GET http://a.espncdn.com/redesign/0.389.10/js/espn-analytics.js HTTP/1.1" from a.espncdn.com
+54: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2018%2F0302%2Fdm_180302_Carr_finds_Reaves_for_go_ahead_slam_for_Penn_State%2Fdm_180302_Carr_finds_Reaves_for_go_ahead_slam_for_Penn_State.jpg&w=1296&h=729&scale=crop&cquality=40&location=origin HTTP/1.1" from a1.espncdn.com
+52: Received "HTTP/1.1 304 Not Modified" from a2.espncdn.com
+52: Responding "HTTP/1.1 304 Not Modified"
+53: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+53: Responding "HTTP/1.1 304 Not Modified"
+54: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+54: Responding "HTTP/1.1 304 Not Modified"
+56: "GET http://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/conferences?groups=50&lang=en&region=us&contentorigin=espn&tz=America%2FNew_York HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:43 2018
+56: not in cache
+56: Requesting "GET http://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/conferences?groups=50&lang=en&region=us&contentorigin=espn&tz=America%2FNew_York HTTP/1.1" from site.api.espn.com
+57: "GET http://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/scoreboard/conferences?groups=50&lang=en&region=us&contentorigin=espn&tz=America%2FNew_York HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:43 2018
+57: not in cache
+56: Received "HTTP/1.1 200 OK" from site.api.espn.com
+56: cached, expires at Sat Mar  3 05:00:27 2018
+56: Responding "HTTP/1.1 200 OK"
+57: Requesting "GET http://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/scoreboard/conferences?groups=50&lang=en&region=us&contentorigin=espn&tz=America%2FNew_York HTTP/1.1" from site.api.espn.com
+57: Received "HTTP/1.1 200 OK" from site.api.espn.com
+57: cached, expires at Sat Mar  3 05:00:12 2018
+57: Responding "HTTP/1.1 200 OK"
+58: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/ind.png&h=25&w=25 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+58: not in cache
+58: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/ind.png&h=25&w=25 HTTP/1.1" from a1.espncdn.com
+58: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+58: Responding "HTTP/1.1 304 Not Modified"
+59: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/min.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+59: not in cache
+60: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/utah.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+60: not in cache
+59: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/min.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+59: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+59: Responding "HTTP/1.1 304 Not Modified"
+60: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/utah.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+61: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/194.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+61: not in cache
+62: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/66.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+62: not in cache
+63: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/213.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+63: not in cache
+60: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+60: Responding "HTTP/1.1 304 Not Modified"
+64: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/201.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+64: not in cache
+61: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/194.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+62: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/66.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+63: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/213.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+61: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+61: Responding "HTTP/1.1 304 Not Modified"
+64: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/201.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+62: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+62: Responding "HTTP/1.1 304 Not Modified"
+63: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+63: Responding "HTTP/1.1 304 Not Modified"
+64: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+64: Responding "HTTP/1.1 304 Not Modified"
+65: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/150.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+65: not in cache
+66: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/152.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+66: not in cache
+67: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+67: not in cache
+68: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/153.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+68: not in cache
+69: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/car.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+69: not in cache
+70: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/car.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+70: not in cache
+65: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/150.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+66: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/152.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+67: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+66: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+65: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+65: Responding "HTTP/1.1 304 Not Modified"
+66: Responding "HTTP/1.1 304 Not Modified"
+69: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/car.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+67: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+67: Responding "HTTP/1.1 304 Not Modified"
+71: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/atl.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+71: not in cache
+70: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/car.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+69: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+69: Responding "HTTP/1.1 304 Not Modified"
+70: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+70: Responding "HTTP/1.1 304 Not Modified"
+71: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/atl.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+71: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+71: Responding "HTTP/1.1 304 Not Modified"
+72: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+72: not in cache
+72: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from a.espncdn.com
+72: Received "HTTP/1.1 200 OK" from a.espncdn.com
+74: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+74: not in cache
+72: cached, expires at Wed Apr 11 04:04:02 2018
+72: Responding "HTTP/1.1 200 OK"
+75: "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png&h=100&w=100&scale=crop&cquality=40 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+75: not in cache
+73: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+73: not in cache
+77: "GET http://a.espncdn.com/combiner/i?img=/i/mobile/website/img/espn_app_72@2x.png&w=100&h=100&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+77: not in cache
+74: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from a.espncdn.com
+75: Requesting "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png&h=100&w=100&scale=crop&cquality=40 HTTP/1.1" from a.espncdn.com
+76: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+76: not in cache
+79: "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png&h=100&w=100&scale=crop&cquality=40 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+79: not in cache
+73: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from a.espncdn.com
+80: "GET http://a.espncdn.com/combiner/i?img=/i/mobile/website/img/flm-onehouse-apptile-180.png&w=100&h=100&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+80: not in cache
+74: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+74: Responding "HTTP/1.1 304 Not Modified"
+77: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/mobile/website/img/espn_app_72@2x.png&w=100&h=100&transparent=true HTTP/1.1" from a.espncdn.com
+75: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+75: Responding "HTTP/1.1 304 Not Modified"
+78: "GET http://a.espncdn.com/redesign/assets/img/logos/espnDailyLogo-45x45.png HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+78: Requesting "GET http://a.espncdn.com/redesign/assets/img/logos/espnDailyLogo-45x45.png HTTP/1.1" from a.espncdn.com
+73: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+73: Responding "HTTP/1.1 304 Not Modified"
+76: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from a.espncdn.com
+79: Requesting "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png&h=100&w=100&scale=crop&cquality=40 HTTP/1.1" from a.espncdn.com
+77: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+77: Responding "HTTP/1.1 304 Not Modified"
+78: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+78: Responding "HTTP/1.1 304 Not Modified"
+80: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/mobile/website/img/flm-onehouse-apptile-180.png&w=100&h=100&transparent=true HTTP/1.1" from a.espncdn.com
+76: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+76: Responding "HTTP/1.1 304 Not Modified"
+79: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+79: Responding "HTTP/1.1 304 Not Modified"
+80: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+80: Responding "HTTP/1.1 304 Not Modified"
+83: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/lac.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+83: not in cache
+84: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ny.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+84: not in cache
+83: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/lac.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+84: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ny.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+83: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+83: Responding "HTTP/1.1 304 Not Modified"
+84: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+84: Responding "HTTP/1.1 304 Not Modified"
+87: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/cha.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+87: not in cache
+85: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/min.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+85: not in cache
+86: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/utah.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+86: not in cache
+87: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/cha.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+88: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/chi.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+88: not in cache
+90: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+90: not in cache
+85: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/min.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+89: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/det.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+89: not in cache
+87: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+87: Responding "HTTP/1.1 304 Not Modified"
+91: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/atl.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+91: not in cache
+86: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/utah.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+92: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/orl.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+92: not in cache
+88: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/chi.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+85: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+85: Responding "HTTP/1.1 304 Not Modified"
+93: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/gs.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+93: not in cache
+90: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+94: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/dal.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:44 2018
+94: not in cache
+86: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+86: Responding "HTTP/1.1 304 Not Modified"
+89: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/det.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+88: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+88: Responding "HTTP/1.1 304 Not Modified"
+91: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/atl.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+90: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+90: Responding "HTTP/1.1 304 Not Modified"
+92: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/orl.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+89: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+89: Responding "HTTP/1.1 304 Not Modified"
+93: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/gs.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+91: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+91: Responding "HTTP/1.1 304 Not Modified"
+94: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/dal.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+92: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+92: Responding "HTTP/1.1 304 Not Modified"
+93: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+93: Responding "HTTP/1.1 304 Not Modified"
+94: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+94: Responding "HTTP/1.1 304 Not Modified"
+95: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mem.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+95: not in cache
+96: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mil.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+96: not in cache
+97: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/wsh.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+97: not in cache
+98: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/den.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+98: not in cache
+99: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ind.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+99: not in cache
+95: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mem.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+96: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mil.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+97: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/wsh.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+95: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+95: Responding "HTTP/1.1 304 Not Modified"
+98: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/den.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+100: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/tor.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+100: not in cache
+101: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phx.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+101: not in cache
+96: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+96: Responding "HTTP/1.1 304 Not Modified"
+99: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ind.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+102: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/okc.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+102: not in cache
+97: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+97: Responding "HTTP/1.1 304 Not Modified"
+98: Received "HTTP/1.1 200 OK" from a1.espncdn.com
+98: cached, expires at Sun Mar 25 23:46:02 2018
+98: Responding "HTTP/1.1 200 OK"
+99: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+99: Responding "HTTP/1.1 304 Not Modified"
+100: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/tor.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+101: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phx.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+102: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/okc.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+100: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+100: Responding "HTTP/1.1 304 Not Modified"
+101: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+101: Responding "HTTP/1.1 304 Not Modified"
+102: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+102: Responding "HTTP/1.1 304 Not Modified"
+68: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/153.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+68: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+68: Responding "HTTP/1.1 304 Not Modified"
+103: "GET http://dpm.demdex.net/id?d_visid_ver=1.5.6&d_rtbd=json&d_ver=2&d_orgid=EE0201AC512D2BE80A490D4C%40AdobeOrg&d_nsid=0&d_mid=11116810806093115376022067174587999197&d_blob=RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y&d_cb=s_c_il%5B0%5D._setMarketingCloudFields HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+103: not in cache
+103: Requesting "GET http://dpm.demdex.net/id?d_visid_ver=1.5.6&d_rtbd=json&d_ver=2&d_orgid=EE0201AC512D2BE80A490D4C%40AdobeOrg&d_nsid=0&d_mid=11116810806093115376022067174587999197&d_blob=RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y&d_cb=s_c_il%5B0%5D._setMarketingCloudFields HTTP/1.1" from dpm.demdex.net
+103: Received "HTTP/1.1 200 OK" from dpm.demdex.net
+103: not cacheable because header indicates no-store
+103: Responding "HTTP/1.1 200 OK"
+104: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/130.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+104: not in cache
+104: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/130.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+105: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/158.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+105: not in cache
+106: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/275.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+106: not in cache
+107: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/127.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+107: not in cache
+108: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/213.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+108: not in cache
+104: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+104: Responding "HTTP/1.1 304 Not Modified"
+105: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/158.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+106: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/275.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+109: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/194.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+109: not in cache
+107: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/127.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+105: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+105: Responding "HTTP/1.1 304 Not Modified"
+108: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/213.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+106: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+106: Responding "HTTP/1.1 304 Not Modified"
+109: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/194.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+107: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+107: Responding "HTTP/1.1 304 Not Modified"
+108: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+108: Responding "HTTP/1.1 304 Not Modified"
+109: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+109: Responding "HTTP/1.1 304 Not Modified"
+110: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/227.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+110: not in cache
+110: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/227.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+111: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2166.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+111: not in cache
+112: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/164.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+112: not in cache
+113: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2509.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+113: not in cache
+110: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+110: Responding "HTTP/1.1 304 Not Modified"
+111: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2166.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+112: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/164.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+113: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2509.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+111: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+111: Responding "HTTP/1.1 304 Not Modified"
+112: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+112: Responding "HTTP/1.1 304 Not Modified"
+113: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+113: Responding "HTTP/1.1 304 Not Modified"
+114: "GET http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0222%2Fr331826_608x342_16%2D9.jpg&w=544&h=306&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:45 2018
+114: not in cache
+114: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0222%2Fr331826_608x342_16%2D9.jpg&w=544&h=306&scale=crop&cquality=80&location=origin HTTP/1.1" from a1.espncdn.com
+114: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+114: Responding "HTTP/1.1 304 Not Modified"
+115: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/9.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:46 2018
+115: not in cache
+115: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/9.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+116: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/204.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:46 2018
+116: not in cache
+115: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+115: Responding "HTTP/1.1 304 Not Modified"
+116: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/204.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+116: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+116: Responding "HTTP/1.1 304 Not Modified"
+117: "GET http://www.espn.com/ HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:46 2018
+117: in cache, requires validation
+117: Requesting "GET http://www.espn.com/ HTTP/1.1" from www.espn.com
+117: Received "HTTP/1.1 200 OK" from www.espn.com
+117: cached, but requires re-validation
+117: Responding "HTTP/1.1 200 OK"
+118: "GET http://cdn.espn.com/core/format/modules/head/i18n?edition-host=espn.com&lang=en&region=us&site=espn&site-type=full&type=ext&build=0.389.10.1&edition-view=espn-en-us&edition=espn-en-us HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:46 2018
+118: in cache, valid
+119: "GET http://a.espncdn.com/redesign/0.389.10/node_modules/espn-lazysizes/lazysizes.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:46 2018
+119: Requesting "GET http://a.espncdn.com/redesign/0.389.10/node_modules/espn-lazysizes/lazysizes.js HTTP/1.1" from a.espncdn.com
+120: "GET http://a.espncdn.com/redesign/0.389.10/css/page.css HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:46 2018
+120: in cache, valid
+122: "GET http://a.espncdn.com/redesign/0.389.10/js/espn-head.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:46 2018
+122: in cache, valid
+123: "GET http://a.espncdn.com/redesign/fonts/base64-benton-woff.css HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:46 2018
+123: in cache, valid
+119: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+119: Responding "HTTP/1.1 304 Not Modified"
+121: "GET http://a.espncdn.com/redesign/0.389.10/css/one-feed-v1.css HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:46 2018
+121: Requesting "GET http://a.espncdn.com/redesign/0.389.10/css/one-feed-v1.css HTTP/1.1" from a.espncdn.com
+124: "GET http://a.espncdn.com/redesign/0.389.10/css/shell-desktop.css HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:46 2018
+124: Requesting "GET http://a.espncdn.com/redesign/0.389.10/css/shell-desktop.css HTTP/1.1" from a.espncdn.com
+121: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+121: Responding "HTTP/1.1 304 Not Modified"
+124: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+124: Responding "HTTP/1.1 304 Not Modified"
+125: "GET http://a.espncdn.com/redesign/0.389.10/js/espn-critical.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:46 2018
+125: Requesting "GET http://a.espncdn.com/redesign/0.389.10/js/espn-critical.js HTTP/1.1" from a.espncdn.com
+125: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+125: Responding "HTTP/1.1 304 Not Modified"
+126: "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fchampweek.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+126: not in cache
+127: "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fespnw.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+127: not in cache
+126: Requesting "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fchampweek.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a4.espncdn.com
+127: Requesting "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fespnw.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a2.espncdn.com
+126: Received "HTTP/1.1 304 Not Modified" from a4.espncdn.com
+126: Responding "HTTP/1.1 304 Not Modified"
+127: Received "HTTP/1.1 200 OK" from a2.espncdn.com
+127: cached, expires at Fri Mar 23 15:03:50 2018
+127: Responding "HTTP/1.1 200 OK"
+128: "GET http://a1.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dbasketball.png&w=80&h=80&scale=crop&cquality=40&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+128: not in cache
+129: "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnhl.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+129: not in cache
+130: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fundefeated.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+130: not in cache
+131: "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fdailycal_square.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+131: not in cache
+132: "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+132: not in cache
+133: "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fbracketology.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+133: not in cache
+134: "GET http://a1.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dmma.png&w=80&h=80&scale=crop&cquality=40&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+134: not in cache
+135: "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+135: not in cache
+128: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dbasketball.png&w=80&h=80&scale=crop&cquality=40&location=origin HTTP/1.1" from a1.espncdn.com
+136: "GET http://a3.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dfootball%2Dcollege.png&w=80&h=80&scale=crop&cquality=40&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+136: in cache, valid
+129: Requesting "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnhl.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a2.espncdn.com
+137: "GET http://a4.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Flogos%2Flogo%2D538%2D24x31.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+137: not in cache
+138: "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fflb.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+138: in cache, valid
+130: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fundefeated.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a.espncdn.com
+128: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+128: Responding "HTTP/1.1 304 Not Modified"
+131: Requesting "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fdailycal_square.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a2.espncdn.com
+129: Received "HTTP/1.1 304 Not Modified" from a2.espncdn.com
+129: Responding "HTTP/1.1 304 Not Modified"
+139: "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fdoubletruck.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+139: not in cache
+132: Requesting "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a4.espncdn.com
+130: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+130: Responding "HTTP/1.1 304 Not Modified"
+133: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fbracketology.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a1.espncdn.com
+131: Received "HTTP/1.1 200 OK" from a2.espncdn.com
+134: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dmma.png&w=80&h=80&scale=crop&cquality=40&location=origin HTTP/1.1" from a1.espncdn.com
+131: cached, expires at Tue Apr  3 04:01:39 2018
+131: Responding "HTTP/1.1 200 OK"
+132: Received "HTTP/1.1 304 Not Modified" from a4.espncdn.com
+132: Responding "HTTP/1.1 304 Not Modified"
+135: Requesting "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a4.espncdn.com
+133: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+133: Responding "HTTP/1.1 304 Not Modified"
+137: Requesting "GET http://a4.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Flogos%2Flogo%2D538%2D24x31.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a4.espncdn.com
+139: Requesting "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fdoubletruck.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a3.espncdn.com
+134: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+134: Responding "HTTP/1.1 304 Not Modified"
+135: Received "HTTP/1.1 304 Not Modified" from a4.espncdn.com
+135: Responding "HTTP/1.1 304 Not Modified"
+137: Received "HTTP/1.1 304 Not Modified" from a4.espncdn.com
+137: Responding "HTTP/1.1 304 Not Modified"
+139: Received "HTTP/1.1 304 Not Modified" from a3.espncdn.com
+139: Responding "HTTP/1.1 304 Not Modified"
+140: "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fespnfc_circle_500.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+140: not in cache
+140: Requesting "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fespnfc_circle_500.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a4.espncdn.com
+141: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fxgames.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+141: not in cache
+140: Received "HTTP/1.1 304 Not Modified" from a4.espncdn.com
+140: Responding "HTTP/1.1 304 Not Modified"
+141: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fxgames.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a.espncdn.com
+141: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+141: Responding "HTTP/1.1 304 Not Modified"
+143: "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fsec_network.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+143: not in cache
+143: Requesting "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fsec_network.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a3.espncdn.com
+142: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fsn.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+142: in cache, valid
+143: Received "HTTP/1.1 304 Not Modified" from a3.espncdn.com
+143: Responding "HTTP/1.1 304 Not Modified"
+144: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fmobile%2Fwebsite%2Fimg%2Fespn_app_72@2x.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+144: not in cache
+145: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fmobile%2Fwebsite%2Fimg%2Fflm%2Dapp%2Dtile.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+145: not in cache
+144: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fmobile%2Fwebsite%2Fimg%2Fespn_app_72@2x.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a.espncdn.com
+145: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fmobile%2Fwebsite%2Fimg%2Fflm%2Dapp%2Dtile.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a.espncdn.com
+146: "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Ffacebook.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+146: not in cache
+144: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+144: Responding "HTTP/1.1 304 Not Modified"
+145: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+145: Responding "HTTP/1.1 304 Not Modified"
+146: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Ffacebook.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a1.espncdn.com
+147: "GET http://a.espncdn.com/redesign/0.389.10/js/espn-defer.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+147: Requesting "GET http://a.espncdn.com/redesign/0.389.10/js/espn-defer.js HTTP/1.1" from a.espncdn.com
+149: "GET http://a.espncdn.com/redesign/0.389.10/js/espn-defer-low.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+149: Requesting "GET http://a.espncdn.com/redesign/0.389.10/js/espn-defer-low.js HTTP/1.1" from a.espncdn.com
+146: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+146: Responding "HTTP/1.1 304 Not Modified"
+148: "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Ftwitter.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+148: not in cache
+147: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+147: Responding "HTTP/1.1 304 Not Modified"
+149: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+149: Responding "HTTP/1.1 304 Not Modified"
+148: Requesting "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Ftwitter.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a2.espncdn.com
+151: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fsnapchat.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+151: in cache, valid
+150: "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Finstagram.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+150: not in cache
+148: Received "HTTP/1.1 200 OK" from a2.espncdn.com
+148: cached, expires at Sat Apr 28 11:20:08 2018
+148: Responding "HTTP/1.1 200 OK"
+150: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Finstagram.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a1.espncdn.com
+150: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+150: Responding "HTTP/1.1 304 Not Modified"
+152: "GET http://a.espncdn.com/redesign/0.389.10/js/espn-analytics.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+152: Requesting "GET http://a.espncdn.com/redesign/0.389.10/js/espn-analytics.js HTTP/1.1" from a.espncdn.com
+153: "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fyoutube.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+153: not in cache
+152: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+152: Responding "HTTP/1.1 304 Not Modified"
+153: Requesting "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fyoutube.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a3.espncdn.com
+153: Received "HTTP/1.1 304 Not Modified" from a3.espncdn.com
+153: Responding "HTTP/1.1 304 Not Modified"
+154: "GET http://a2.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Flogos%2FespnDailyLogo%2D45x45.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+154: not in cache
+154: Requesting "GET http://a2.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Flogos%2FespnDailyLogo%2D45x45.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a2.espncdn.com
+154: Received "HTTP/1.1 304 Not Modified" from a2.espncdn.com
+154: Responding "HTTP/1.1 304 Not Modified"
+156: "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/logos/logo-538-24x31.png&h=32&w=32 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+156: not in cache
+156: Responding "HTTP/1.1 504 Bad Timeout"
+155: "GET http://a.espncdn.com/test/fancyLogo2.svg HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+155: Requesting "GET http://a.espncdn.com/test/fancyLogo2.svg HTTP/1.1" from a.espncdn.com
+155: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+155: Responding "HTTP/1.1 304 Not Modified"
+158: "GET http://a.espncdn.com/redesign/assets/img/icons/icon-search.png HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+158: not in cache
+157: "GET http://a.espncdn.com/redesign/assets/img/logos/flb-homepage-signup-module-header-light.png HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+157: Requesting "GET http://a.espncdn.com/redesign/assets/img/logos/flb-homepage-signup-module-header-light.png HTTP/1.1" from a.espncdn.com
+159: "GET http://a.espncdn.com/redesign/assets/img/logos/logo-espn-82x20.png HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+159: Requesting "GET http://a.espncdn.com/redesign/assets/img/logos/logo-espn-82x20.png HTTP/1.1" from a.espncdn.com
+158: Requesting "GET http://a.espncdn.com/redesign/assets/img/icons/icon-search.png HTTP/1.1" from a.espncdn.com
+160: "GET http://a3.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2018%2F0302%2Fdm_180302_nba_jazz_gobert_oop%2Fdm_180302_nba_jazz_gobert_oop.jpg&w=1600&h=640&scale=crop&cquality=40&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+160: not in cache
+157: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+157: Responding "HTTP/1.1 304 Not Modified"
+159: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+159: Responding "HTTP/1.1 304 Not Modified"
+158: Received "HTTP/1.1 200 OK" from a.espncdn.com
+158: cached, expires at Thu Mar 22 23:15:15 2018
+158: Responding "HTTP/1.1 200 OK"
+160: Requesting "GET http://a3.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2018%2F0302%2Fdm_180302_nba_jazz_gobert_oop%2Fdm_180302_nba_jazz_gobert_oop.jpg&w=1600&h=640&scale=crop&cquality=40&location=origin HTTP/1.1" from a3.espncdn.com
+160: Received "HTTP/1.1 304 Not Modified" from a3.espncdn.com
+160: Responding "HTTP/1.1 304 Not Modified"
+161: "GET http://a.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0301%2Fr335015_1296x864_3%2D2.jpg&w=360&h=240&scale=crop&cquality=40&location=center HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+161: not in cache
+162: "GET http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0302%2Fr335524_1296x864_3%2D2.jpg&w=360&h=240&scale=crop&cquality=40&location=center HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:47 2018
+162: not in cache
+161: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0301%2Fr335015_1296x864_3%2D2.jpg&w=360&h=240&scale=crop&cquality=40&location=center HTTP/1.1" from a.espncdn.com
+162: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0302%2Fr335524_1296x864_3%2D2.jpg&w=360&h=240&scale=crop&cquality=40&location=center HTTP/1.1" from a1.espncdn.com
+161: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+161: Responding "HTTP/1.1 304 Not Modified"
+162: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+162: Responding "HTTP/1.1 304 Not Modified"
+163: "GET http://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/scoreboard/conferences?groups=50&lang=en&region=us&contentorigin=espn&tz=America%2FNew_York HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+163: in cache, valid
+164: "GET http://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/conferences?groups=50&lang=en&region=us&contentorigin=espn&tz=America%2FNew_York HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+164: in cache, valid
+165: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/ind.png&h=25&w=25 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+165: not in cache
+165: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/ind.png&h=25&w=25 HTTP/1.1" from a1.espncdn.com
+165: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+165: Responding "HTTP/1.1 304 Not Modified"
+166: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/utah.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+166: not in cache
+168: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/min.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+168: not in cache
+166: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/utah.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+168: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/min.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+166: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+166: Responding "HTTP/1.1 304 Not Modified"
+168: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+168: Responding "HTTP/1.1 304 Not Modified"
+167: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/194.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+167: not in cache
+169: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/213.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+169: not in cache
+170: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/66.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+170: not in cache
+167: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/194.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+169: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/213.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+167: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+167: Responding "HTTP/1.1 304 Not Modified"
+170: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/66.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+169: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+169: Responding "HTTP/1.1 304 Not Modified"
+170: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+170: Responding "HTTP/1.1 304 Not Modified"
+171: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/201.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+171: not in cache
+171: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/201.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+171: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+171: Responding "HTTP/1.1 304 Not Modified"
+172: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/153.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+172: not in cache
+174: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/car.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+174: not in cache
+175: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/150.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+175: not in cache
+176: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/152.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+176: not in cache
+177: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/atl.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+177: not in cache
+172: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/153.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+173: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/car.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+173: not in cache
+178: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+178: not in cache
+174: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/car.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+172: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+172: Responding "HTTP/1.1 304 Not Modified"
+175: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/150.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+176: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/152.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+174: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+174: Responding "HTTP/1.1 304 Not Modified"
+177: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/atl.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+175: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+175: Responding "HTTP/1.1 304 Not Modified"
+173: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/car.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+176: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+176: Responding "HTTP/1.1 304 Not Modified"
+178: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+177: Received "HTTP/1.1 200 OK" from a.espncdn.com
+177: cached, expires at Mon Apr  2 10:23:59 2018
+177: Responding "HTTP/1.1 200 OK"
+173: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+173: Responding "HTTP/1.1 304 Not Modified"
+178: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+178: Responding "HTTP/1.1 304 Not Modified"
+179: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+179: in cache, valid
+180: "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png&h=100&w=100&scale=crop&cquality=40 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+180: not in cache
+181: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+181: not in cache
+180: Requesting "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png&h=100&w=100&scale=crop&cquality=40 HTTP/1.1" from a.espncdn.com
+182: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+182: not in cache
+181: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from a.espncdn.com
+183: "GET http://a.espncdn.com/combiner/i?img=/i/mobile/website/img/flm-onehouse-apptile-180.png&w=100&h=100&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+183: not in cache
+180: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+180: Responding "HTTP/1.1 304 Not Modified"
+184: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+184: not in cache
+185: "GET http://a.espncdn.com/combiner/i?img=/i/mobile/website/img/espn_app_72@2x.png&w=100&h=100&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+185: not in cache
+186: "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png&h=100&w=100&scale=crop&cquality=40 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+186: not in cache
+181: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+181: Responding "HTTP/1.1 304 Not Modified"
+182: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from a.espncdn.com
+183: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/mobile/website/img/flm-onehouse-apptile-180.png&w=100&h=100&transparent=true HTTP/1.1" from a.espncdn.com
+184: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from a.espncdn.com
+182: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+182: Responding "HTTP/1.1 304 Not Modified"
+185: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/mobile/website/img/espn_app_72@2x.png&w=100&h=100&transparent=true HTTP/1.1" from a.espncdn.com
+183: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+183: Responding "HTTP/1.1 304 Not Modified"
+186: Requesting "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png&h=100&w=100&scale=crop&cquality=40 HTTP/1.1" from a.espncdn.com
+184: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+184: Responding "HTTP/1.1 304 Not Modified"
+185: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+185: Responding "HTTP/1.1 304 Not Modified"
+186: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+186: Responding "HTTP/1.1 304 Not Modified"
+187: "GET http://a.espncdn.com/redesign/assets/img/logos/espnDailyLogo-45x45.png HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:48 2018
+187: Requesting "GET http://a.espncdn.com/redesign/assets/img/logos/espnDailyLogo-45x45.png HTTP/1.1" from a.espncdn.com
+187: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+187: Responding "HTTP/1.1 304 Not Modified"
+188: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/cha.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+188: not in cache
+188: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/cha.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+189: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/lac.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+189: not in cache
+190: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/min.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+190: not in cache
+191: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/utah.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+191: not in cache
+192: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ny.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+192: not in cache
+193: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+193: not in cache
+188: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+188: Responding "HTTP/1.1 304 Not Modified"
+189: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/lac.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+190: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/min.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+191: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/utah.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+192: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ny.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+189: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+189: Responding "HTTP/1.1 304 Not Modified"
+193: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+190: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+190: Responding "HTTP/1.1 304 Not Modified"
+191: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+191: Responding "HTTP/1.1 304 Not Modified"
+192: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+192: Responding "HTTP/1.1 304 Not Modified"
+193: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+193: Responding "HTTP/1.1 304 Not Modified"
+194: "GET http://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0223%2Fr332262_608x342_16%2D9.jpg&w=544&h=306&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+194: not in cache
+195: "GET http://a1.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2018%2F0302%2Fdm_180302_Carr_finds_Reaves_for_go_ahead_slam_for_Penn_State%2Fdm_180302_Carr_finds_Reaves_for_go_ahead_slam_for_Penn_State.jpg&w=1296&h=729&scale=crop&cquality=40&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+195: not in cache
+194: Requesting "GET http://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0223%2Fr332262_608x342_16%2D9.jpg&w=544&h=306&scale=crop&cquality=80&location=origin HTTP/1.1" from a2.espncdn.com
+195: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2018%2F0302%2Fdm_180302_Carr_finds_Reaves_for_go_ahead_slam_for_Penn_State%2Fdm_180302_Carr_finds_Reaves_for_go_ahead_slam_for_Penn_State.jpg&w=1296&h=729&scale=crop&cquality=40&location=origin HTTP/1.1" from a1.espncdn.com
+194: Received "HTTP/1.1 304 Not Modified" from a2.espncdn.com
+194: Responding "HTTP/1.1 304 Not Modified"
+195: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+195: Responding "HTTP/1.1 304 Not Modified"
+196: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/det.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+196: not in cache
+196: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/det.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+197: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mem.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+197: not in cache
+198: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/den.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+198: in cache, valid
+199: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/atl.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+199: not in cache
+196: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+196: Responding "HTTP/1.1 304 Not Modified"
+200: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/gs.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+200: not in cache
+201: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/dal.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+201: not in cache
+202: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/chi.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+202: not in cache
+203: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/orl.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+203: not in cache
+197: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mem.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+199: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/atl.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+200: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/gs.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+197: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+197: Responding "HTTP/1.1 304 Not Modified"
+201: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/dal.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+199: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+199: Responding "HTTP/1.1 304 Not Modified"
+202: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/chi.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+203: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/orl.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+200: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+200: Responding "HTTP/1.1 304 Not Modified"
+201: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+201: Responding "HTTP/1.1 304 Not Modified"
+202: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+202: Responding "HTTP/1.1 304 Not Modified"
+203: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+203: Responding "HTTP/1.1 304 Not Modified"
+204: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mil.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+204: not in cache
+205: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ind.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+205: not in cache
+204: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mil.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+206: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/tor.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+206: not in cache
+207: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/okc.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+207: not in cache
+205: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ind.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+204: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+204: Responding "HTTP/1.1 304 Not Modified"
+206: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/tor.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+208: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/130.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+208: not in cache
+207: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/okc.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+205: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+205: Responding "HTTP/1.1 304 Not Modified"
+206: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+206: Responding "HTTP/1.1 304 Not Modified"
+207: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+207: Responding "HTTP/1.1 304 Not Modified"
+208: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/130.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+209: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/158.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+209: not in cache
+210: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phx.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+210: not in cache
+211: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/275.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+211: not in cache
+208: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+208: Responding "HTTP/1.1 304 Not Modified"
+209: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/158.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+210: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phx.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+212: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/127.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+212: not in cache
+211: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/275.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+209: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+209: Responding "HTTP/1.1 304 Not Modified"
+210: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+210: Responding "HTTP/1.1 304 Not Modified"
+212: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/127.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+211: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+211: Responding "HTTP/1.1 304 Not Modified"
+212: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+212: Responding "HTTP/1.1 304 Not Modified"
+213: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/wsh.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:49 2018
+213: not in cache
+213: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/wsh.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+213: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+213: Responding "HTTP/1.1 304 Not Modified"
+214: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/213.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:50 2018
+214: not in cache
+215: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/194.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:50 2018
+215: not in cache
+214: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/213.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+215: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/194.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+214: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+214: Responding "HTTP/1.1 304 Not Modified"
+215: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+215: Responding "HTTP/1.1 304 Not Modified"
+216: "GET http://dpm.demdex.net/id?d_visid_ver=1.5.6&d_rtbd=json&d_ver=2&d_orgid=EE0201AC512D2BE80A490D4C%40AdobeOrg&d_nsid=0&d_mid=11116810806093115376022067174587999197&d_blob=RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y&d_cb=s_c_il%5B0%5D._setMarketingCloudFields HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:50 2018
+216: not in cache
+216: Requesting "GET http://dpm.demdex.net/id?d_visid_ver=1.5.6&d_rtbd=json&d_ver=2&d_orgid=EE0201AC512D2BE80A490D4C%40AdobeOrg&d_nsid=0&d_mid=11116810806093115376022067174587999197&d_blob=RKhpRz8krg2tLO6pguXWp5olkAcUniQYPHaMWWgdJ3xzPWQmdj0y&d_cb=s_c_il%5B0%5D._setMarketingCloudFields HTTP/1.1" from dpm.demdex.net
+216: Received "HTTP/1.1 200 OK" from dpm.demdex.net
+216: not cacheable because header indicates no-store
+216: Responding "HTTP/1.1 200 OK"
+217: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/227.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:50 2018
+217: not in cache
+218: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2166.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:50 2018
+218: not in cache
+217: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/227.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+218: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2166.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+217: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+217: Responding "HTTP/1.1 304 Not Modified"
+218: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+218: Responding "HTTP/1.1 304 Not Modified"
+219: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/164.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:50 2018
+219: not in cache
+220: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2509.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:50 2018
+220: not in cache
+221: "GET http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0222%2Fr331826_608x342_16%2D9.jpg&w=544&h=306&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:50 2018
+221: not in cache
+219: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/164.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+220: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2509.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+221: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0222%2Fr331826_608x342_16%2D9.jpg&w=544&h=306&scale=crop&cquality=80&location=origin HTTP/1.1" from a1.espncdn.com
+219: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+219: Responding "HTTP/1.1 304 Not Modified"
+220: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+220: Responding "HTTP/1.1 304 Not Modified"
+221: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+221: Responding "HTTP/1.1 304 Not Modified"
+222: "GET http://www.espn.com/ HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:50 2018
+222: in cache, requires validation
+222: Requesting "GET http://www.espn.com/ HTTP/1.1" from www.espn.com
+222: Received "HTTP/1.1 200 OK" from www.espn.com
+222: cached, but requires re-validation
+222: Responding "HTTP/1.1 200 OK"
+223: "GET http://cdn.espn.com/core/format/modules/head/i18n?edition-host=espn.com&lang=en&region=us&site=espn&site-type=full&type=ext&build=0.389.10.1&edition-view=espn-en-us&edition=espn-en-us HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+223: in cache, valid
+227: "GET http://a.espncdn.com/redesign/0.389.10/css/page.css HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+227: in cache, valid
+226: "GET http://a.espncdn.com/redesign/fonts/base64-benton-woff.css HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+226: in cache, valid
+229: "GET http://a.espncdn.com/redesign/0.389.10/js/espn-head.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+229: in cache, valid
+224: "GET http://a.espncdn.com/redesign/0.389.10/css/shell-desktop.css HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+224: Requesting "GET http://a.espncdn.com/redesign/0.389.10/css/shell-desktop.css HTTP/1.1" from a.espncdn.com
+225: "GET http://a.espncdn.com/redesign/0.389.10/node_modules/espn-lazysizes/lazysizes.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+225: Requesting "GET http://a.espncdn.com/redesign/0.389.10/node_modules/espn-lazysizes/lazysizes.js HTTP/1.1" from a.espncdn.com
+228: "GET http://a.espncdn.com/redesign/0.389.10/js/espn-critical.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+228: Requesting "GET http://a.espncdn.com/redesign/0.389.10/js/espn-critical.js HTTP/1.1" from a.espncdn.com
+224: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+224: Responding "HTTP/1.1 304 Not Modified"
+230: "GET http://a.espncdn.com/redesign/0.389.10/css/one-feed-v1.css HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+230: Requesting "GET http://a.espncdn.com/redesign/0.389.10/css/one-feed-v1.css HTTP/1.1" from a.espncdn.com
+225: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+225: Responding "HTTP/1.1 304 Not Modified"
+228: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+228: Responding "HTTP/1.1 304 Not Modified"
+230: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+230: Responding "HTTP/1.1 304 Not Modified"
+231: "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/logos/logo-538-24x31.png&h=32&w=32 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+231: not in cache
+231: Requesting "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/logos/logo-538-24x31.png&h=32&w=32 HTTP/1.1" from a.espncdn.com
+231: Received "HTTP/1.1 200 OK" from a.espncdn.com
+231: cached, expires at Sat Apr 21 04:51:32 2018
+231: Responding "HTTP/1.1 200 OK"
+232: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fmobile%2Fwebsite%2Fimg%2Fespn_app_72@2x.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+232: not in cache
+232: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fmobile%2Fwebsite%2Fimg%2Fespn_app_72@2x.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a.espncdn.com
+233: "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fespnfc_circle_500.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+233: not in cache
+235: "GET http://a1.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dmma.png&w=80&h=80&scale=crop&cquality=40&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+235: not in cache
+232: Received "HTTP/1.1 200 OK" from a.espncdn.com
+232: cached, expires at Tue Apr 10 08:01:18 2018
+232: Responding "HTTP/1.1 200 OK"
+236: "GET http://a3.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dfootball%2Dcollege.png&w=80&h=80&scale=crop&cquality=40&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+236: in cache, valid
+237: "GET http://a1.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dbasketball.png&w=80&h=80&scale=crop&cquality=40&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+237: not in cache
+233: Requesting "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fespnfc_circle_500.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a4.espncdn.com
+234: "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fbracketology.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+234: not in cache
+238: "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fchampweek.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+238: not in cache
+239: "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+239: not in cache
+235: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dmma.png&w=80&h=80&scale=crop&cquality=40&location=origin HTTP/1.1" from a1.espncdn.com
+237: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dbasketball.png&w=80&h=80&scale=crop&cquality=40&location=origin HTTP/1.1" from a1.espncdn.com
+233: Received "HTTP/1.1 200 OK" from a4.espncdn.com
+233: cached, expires at Sat Apr  7 22:54:03 2018
+233: Responding "HTTP/1.1 200 OK"
+234: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fbracketology.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a1.espncdn.com
+241: "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+241: not in cache
+235: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+235: Responding "HTTP/1.1 304 Not Modified"
+238: Requesting "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fchampweek.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a4.espncdn.com
+240: "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fflb.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+240: in cache, valid
+242: "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnhl.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+242: not in cache
+239: Requesting "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnfl.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a4.espncdn.com
+237: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+237: Responding "HTTP/1.1 304 Not Modified"
+234: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+234: Responding "HTTP/1.1 304 Not Modified"
+243: "GET http://a4.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Flogos%2Flogo%2D538%2D24x31.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+243: not in cache
+238: Received "HTTP/1.1 304 Not Modified" from a4.espncdn.com
+238: Responding "HTTP/1.1 304 Not Modified"
+241: Requesting "GET http://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a4.espncdn.com
+239: Received "HTTP/1.1 304 Not Modified" from a4.espncdn.com
+239: Responding "HTTP/1.1 304 Not Modified"
+242: Requesting "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnhl.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a2.espncdn.com
+243: Requesting "GET http://a4.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Flogos%2Flogo%2D538%2D24x31.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a4.espncdn.com
+241: Received "HTTP/1.1 304 Not Modified" from a4.espncdn.com
+241: Responding "HTTP/1.1 304 Not Modified"
+242: Received "HTTP/1.1 304 Not Modified" from a2.espncdn.com
+242: Responding "HTTP/1.1 304 Not Modified"
+243: Received "HTTP/1.1 304 Not Modified" from a4.espncdn.com
+243: Responding "HTTP/1.1 304 Not Modified"
+244: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fundefeated.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+244: not in cache
+245: "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fdoubletruck.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+245: not in cache
+244: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fundefeated.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a.espncdn.com
+245: Requesting "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fdoubletruck.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a3.espncdn.com
+244: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+244: Responding "HTTP/1.1 304 Not Modified"
+245: Received "HTTP/1.1 304 Not Modified" from a3.espncdn.com
+245: Responding "HTTP/1.1 304 Not Modified"
+246: "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fespnw.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+246: in cache, valid
+247: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fxgames.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+247: not in cache
+248: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fmobile%2Fwebsite%2Fimg%2Fflm%2Dapp%2Dtile.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+248: not in cache
+247: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fxgames.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a.espncdn.com
+249: "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fsec_network.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+249: not in cache
+250: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fsn.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+250: in cache, valid
+247: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+247: Responding "HTTP/1.1 304 Not Modified"
+248: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Fmobile%2Fwebsite%2Fimg%2Fflm%2Dapp%2Dtile.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a.espncdn.com
+249: Requesting "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fnetworks_shows%2F500%2Fsec_network.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a3.espncdn.com
+248: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+248: Responding "HTTP/1.1 304 Not Modified"
+249: Received "HTTP/1.1 304 Not Modified" from a3.espncdn.com
+249: Responding "HTTP/1.1 304 Not Modified"
+251: "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Finstagram.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+251: not in cache
+251: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Finstagram.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a1.espncdn.com
+252: "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Ftwitter.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+252: in cache, valid
+251: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+251: Responding "HTTP/1.1 304 Not Modified"
+253: "GET http://a.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fsnapchat.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+253: in cache, valid
+254: "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fyoutube.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+254: not in cache
+254: Requesting "GET http://a3.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fyoutube.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a3.espncdn.com
+254: Received "HTTP/1.1 304 Not Modified" from a3.espncdn.com
+254: Responding "HTTP/1.1 304 Not Modified"
+256: "GET http://a2.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Fdailycal_square.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+256: in cache, valid
+255: "GET http://a2.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Flogos%2FespnDailyLogo%2D45x45.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+255: not in cache
+255: Requesting "GET http://a2.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Flogos%2FespnDailyLogo%2D45x45.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a2.espncdn.com
+255: Received "HTTP/1.1 304 Not Modified" from a2.espncdn.com
+255: Responding "HTTP/1.1 304 Not Modified"
+257: "GET http://a.espncdn.com/test/fancyLogo2.svg HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+257: Requesting "GET http://a.espncdn.com/test/fancyLogo2.svg HTTP/1.1" from a.espncdn.com
+258: "GET http://a.espncdn.com/redesign/assets/img/logos/flb-homepage-signup-module-header-light.png HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+258: Requesting "GET http://a.espncdn.com/redesign/assets/img/logos/flb-homepage-signup-module-header-light.png HTTP/1.1" from a.espncdn.com
+257: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+257: Responding "HTTP/1.1 304 Not Modified"
+258: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+258: Responding "HTTP/1.1 304 Not Modified"
+259: "GET http://a.espncdn.com/redesign/assets/img/logos/logo-espn-82x20.png HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+259: Requesting "GET http://a.espncdn.com/redesign/assets/img/logos/logo-espn-82x20.png HTTP/1.1" from a.espncdn.com
+260: "GET http://a.espncdn.com/redesign/assets/img/icons/icon-search.png HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+260: Requesting "GET http://a.espncdn.com/redesign/assets/img/icons/icon-search.png HTTP/1.1" from a.espncdn.com
+261: "GET http://a.espncdn.com/redesign/0.389.10/js/espn-defer.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+261: Requesting "GET http://a.espncdn.com/redesign/0.389.10/js/espn-defer.js HTTP/1.1" from a.espncdn.com
+259: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+259: Responding "HTTP/1.1 304 Not Modified"
+260: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+260: Responding "HTTP/1.1 304 Not Modified"
+262: "GET http://a.espncdn.com/redesign/0.389.10/js/espn-defer-low.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:51 2018
+262: Requesting "GET http://a.espncdn.com/redesign/0.389.10/js/espn-defer-low.js HTTP/1.1" from a.espncdn.com
+261: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+261: Responding "HTTP/1.1 304 Not Modified"
+262: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+262: Responding "HTTP/1.1 304 Not Modified"
+263: "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Ffacebook.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:52 2018
+263: not in cache
+264: "GET http://a3.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2018%2F0302%2Fdm_180302_nba_jazz_gobert_oop%2Fdm_180302_nba_jazz_gobert_oop.jpg&w=1600&h=640&scale=crop&cquality=40&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:52 2018
+264: not in cache
+263: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fi%2Ffantasy%2Ffacebook.png&w=60&h=60&scale=crop&cquality=80&location=origin HTTP/1.1" from a1.espncdn.com
+264: Requesting "GET http://a3.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2018%2F0302%2Fdm_180302_nba_jazz_gobert_oop%2Fdm_180302_nba_jazz_gobert_oop.jpg&w=1600&h=640&scale=crop&cquality=40&location=origin HTTP/1.1" from a3.espncdn.com
+263: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+263: Responding "HTTP/1.1 304 Not Modified"
+264: Received "HTTP/1.1 304 Not Modified" from a3.espncdn.com
+264: Responding "HTTP/1.1 304 Not Modified"
+265: "GET http://a.espncdn.com/redesign/0.389.10/js/espn-analytics.js HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:52 2018
+265: Requesting "GET http://a.espncdn.com/redesign/0.389.10/js/espn-analytics.js HTTP/1.1" from a.espncdn.com
+265: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+265: Responding "HTTP/1.1 304 Not Modified"
+266: "GET http://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard/conferences?groups=50&lang=en&region=us&contentorigin=espn&tz=America%2FNew_York HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:52 2018
+266: in cache, valid
+267: "GET http://site.api.espn.com/apis/site/v2/sports/basketball/womens-college-basketball/scoreboard/conferences?groups=50&lang=en&region=us&contentorigin=espn&tz=America%2FNew_York HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:52 2018
+267: in cache, valid
+268: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/ind.png&h=25&w=25 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:52 2018
+268: not in cache
+268: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/ind.png&h=25&w=25 HTTP/1.1" from a1.espncdn.com
+268: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+268: Responding "HTTP/1.1 304 Not Modified"
+269: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/min.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:52 2018
+269: not in cache
+270: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/utah.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:52 2018
+270: not in cache
+269: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/min.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+270: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/utah.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+269: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+269: Responding "HTTP/1.1 304 Not Modified"
+270: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+270: Responding "HTTP/1.1 304 Not Modified"
+271: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/213.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:52 2018
+271: not in cache
+272: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/194.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:52 2018
+272: not in cache
+273: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/66.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:52 2018
+273: not in cache
+271: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/213.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+272: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/194.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+273: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/66.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+274: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/201.png&h=130&w=130 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:52 2018
+274: not in cache
+271: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+271: Responding "HTTP/1.1 304 Not Modified"
+272: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+272: Responding "HTTP/1.1 304 Not Modified"
+273: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+273: Responding "HTTP/1.1 304 Not Modified"
+274: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/201.png&h=130&w=130 HTTP/1.1" from a1.espncdn.com
+274: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+274: Responding "HTTP/1.1 304 Not Modified"
+275: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/153.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+275: not in cache
+276: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/152.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+276: not in cache
+277: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/car.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+277: not in cache
+278: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/car.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+278: not in cache
+275: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/153.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+276: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/152.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+277: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nhl/500/car.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+278: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nfl/500/car.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+275: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+275: Responding "HTTP/1.1 304 Not Modified"
+276: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+276: Responding "HTTP/1.1 304 Not Modified"
+279: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/mlb/500/atl.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+279: in cache, valid
+277: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+277: Responding "HTTP/1.1 304 Not Modified"
+278: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+278: Responding "HTTP/1.1 304 Not Modified"
+280: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/150.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+280: not in cache
+280: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/150.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+281: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png&w=72&h=72&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+281: not in cache
+280: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+280: Responding "HTTP/1.1 304 Not Modified"
+281: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/cha.png&w=72&h=72&transparent=true HTTP/1.1" from a.espncdn.com
+281: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+281: Responding "HTTP/1.1 304 Not Modified"
+282: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+282: not in cache
+282: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nfl.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from a.espncdn.com
+283: "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png&h=100&w=100&scale=crop&cquality=40 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+283: not in cache
+282: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+282: Responding "HTTP/1.1 304 Not Modified"
+284: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+284: in cache, valid
+283: Requesting "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png&h=100&w=100&scale=crop&cquality=40 HTTP/1.1" from a.espncdn.com
+285: "GET http://a.espncdn.com/combiner/i?img=/i/mobile/website/img/flm-onehouse-apptile-180.png&w=100&h=100&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+285: not in cache
+286: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+286: not in cache
+287: "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png&h=100&w=100&scale=crop&cquality=40 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+287: not in cache
+288: "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+288: not in cache
+283: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+283: Responding "HTTP/1.1 304 Not Modified"
+285: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/mobile/website/img/flm-onehouse-apptile-180.png&w=100&h=100&transparent=true HTTP/1.1" from a.espncdn.com
+286: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/mlb.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from a.espncdn.com
+287: Requesting "GET http://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-basketball.png&h=100&w=100&scale=crop&cquality=40 HTTP/1.1" from a.espncdn.com
+289: "GET http://a.espncdn.com/combiner/i?img=/i/mobile/website/img/espn_app_72@2x.png&w=100&h=100&transparent=true HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+289: not in cache
+288: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png?w=110&h=110&transparent=true&h=100&w=100 HTTP/1.1" from a.espncdn.com
+285: Received "HTTP/1.1 200 OK" from a.espncdn.com
+285: cached, expires at Tue Apr 10 11:23:17 2018
+285: Responding "HTTP/1.1 200 OK"
+286: Received "HTTP/1.1 200 OK" from a.espncdn.com
+286: cached, expires at Sun Apr  1 17:52:14 2018
+286: Responding "HTTP/1.1 200 OK"
+287: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+287: Responding "HTTP/1.1 304 Not Modified"
+288: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+288: Responding "HTTP/1.1 304 Not Modified"
+289: Requesting "GET http://a.espncdn.com/combiner/i?img=/i/mobile/website/img/espn_app_72@2x.png&w=100&h=100&transparent=true HTTP/1.1" from a.espncdn.com
+289: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+289: Responding "HTTP/1.1 304 Not Modified"
+290: "GET http://a.espncdn.com/redesign/assets/img/logos/espnDailyLogo-45x45.png HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+290: Requesting "GET http://a.espncdn.com/redesign/assets/img/logos/espnDailyLogo-45x45.png HTTP/1.1" from a.espncdn.com
+290: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+290: Responding "HTTP/1.1 304 Not Modified"
+291: "GET http://a.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0301%2Fr335015_1296x864_3%2D2.jpg&w=360&h=240&scale=crop&cquality=40&location=center HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+291: not in cache
+291: Requesting "GET http://a.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0301%2Fr335015_1296x864_3%2D2.jpg&w=360&h=240&scale=crop&cquality=40&location=center HTTP/1.1" from a.espncdn.com
+292: "GET http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0302%2Fr335524_1296x864_3%2D2.jpg&w=360&h=240&scale=crop&cquality=40&location=center HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+292: not in cache
+291: Received "HTTP/1.1 304 Not Modified" from a.espncdn.com
+291: Responding "HTTP/1.1 304 Not Modified"
+292: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0302%2Fr335524_1296x864_3%2D2.jpg&w=360&h=240&scale=crop&cquality=40&location=center HTTP/1.1" from a1.espncdn.com
+292: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+292: Responding "HTTP/1.1 304 Not Modified"
+293: "GET http://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0223%2Fr332262_608x342_16%2D9.jpg&w=544&h=306&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+293: not in cache
+294: "GET http://a1.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2018%2F0302%2Fdm_180302_Carr_finds_Reaves_for_go_ahead_slam_for_Penn_State%2Fdm_180302_Carr_finds_Reaves_for_go_ahead_slam_for_Penn_State.jpg&w=1296&h=729&scale=crop&cquality=40&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:53 2018
+294: not in cache
+293: Requesting "GET http://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0223%2Fr332262_608x342_16%2D9.jpg&w=544&h=306&scale=crop&cquality=80&location=origin HTTP/1.1" from a2.espncdn.com
+294: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fmedia%2Fmotion%2F2018%2F0302%2Fdm_180302_Carr_finds_Reaves_for_go_ahead_slam_for_Penn_State%2Fdm_180302_Carr_finds_Reaves_for_go_ahead_slam_for_Penn_State.jpg&w=1296&h=729&scale=crop&cquality=40&location=origin HTTP/1.1" from a1.espncdn.com
+293: Received "HTTP/1.1 304 Not Modified" from a2.espncdn.com
+293: Responding "HTTP/1.1 304 Not Modified"
+294: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+294: Responding "HTTP/1.1 304 Not Modified"
+295: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ny.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+295: not in cache
+295: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ny.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+296: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/cha.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+296: not in cache
+297: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/lac.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+297: not in cache
+299: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/min.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+299: not in cache
+298: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/utah.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+298: not in cache
+295: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+295: Responding "HTTP/1.1 304 Not Modified"
+300: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+300: not in cache
+296: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/cha.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+297: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/lac.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+299: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/min.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+296: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+296: Responding "HTTP/1.1 304 Not Modified"
+298: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/utah.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+297: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+297: Responding "HTTP/1.1 304 Not Modified"
+300: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phi.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+299: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+299: Responding "HTTP/1.1 304 Not Modified"
+298: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+298: Responding "HTTP/1.1 304 Not Modified"
+300: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+300: Responding "HTTP/1.1 304 Not Modified"
+301: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/gs.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+301: not in cache
+301: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/gs.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+301: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+301: Responding "HTTP/1.1 304 Not Modified"
+303: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ind.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+303: not in cache
+302: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/den.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+302: in cache, valid
+304: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mil.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+304: not in cache
+305: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/tor.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+305: not in cache
+307: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/orl.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+307: not in cache
+308: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/det.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+308: not in cache
+309: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/atl.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+309: not in cache
+310: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mem.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+310: not in cache
+303: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/ind.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+304: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mil.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+311: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/chi.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+311: not in cache
+305: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/tor.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+303: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+303: Responding "HTTP/1.1 304 Not Modified"
+304: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+304: Responding "HTTP/1.1 304 Not Modified"
+307: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/orl.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+312: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/275.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+312: not in cache
+313: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/dal.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+313: not in cache
+314: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phx.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+314: not in cache
+315: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/wsh.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+315: not in cache
+316: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/okc.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+316: not in cache
+308: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/det.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+305: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+305: Responding "HTTP/1.1 304 Not Modified"
+320: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/158.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+320: not in cache
+317: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/130.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+317: not in cache
+319: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/127.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+319: not in cache
+307: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+307: Responding "HTTP/1.1 304 Not Modified"
+308: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+308: Responding "HTTP/1.1 304 Not Modified"
+309: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/atl.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+310: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mem.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+311: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/chi.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+309: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+309: Responding "HTTP/1.1 304 Not Modified"
+312: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/275.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+310: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+310: Responding "HTTP/1.1 304 Not Modified"
+313: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/dal.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+314: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/phx.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+311: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+311: Responding "HTTP/1.1 304 Not Modified"
+315: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/wsh.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+312: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+312: Responding "HTTP/1.1 304 Not Modified"
+316: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/okc.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+313: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+313: Responding "HTTP/1.1 304 Not Modified"
+320: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/158.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+314: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+314: Responding "HTTP/1.1 304 Not Modified"
+315: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+315: Responding "HTTP/1.1 304 Not Modified"
+317: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/130.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+316: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+316: Responding "HTTP/1.1 304 Not Modified"
+319: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/127.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+320: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+320: Responding "HTTP/1.1 304 Not Modified"
+317: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+317: Responding "HTTP/1.1 304 Not Modified"
+319: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+319: Responding "HTTP/1.1 304 Not Modified"
+306: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/194.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+306: not in cache
+318: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/213.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:54 2018
+318: not in cache
+306: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/194.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+318: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/213.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+306: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+306: Responding "HTTP/1.1 304 Not Modified"
+318: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+318: Responding "HTTP/1.1 304 Not Modified"
+322: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2166.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:55 2018
+322: not in cache
+323: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/164.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:55 2018
+323: not in cache
+321: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/227.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:55 2018
+321: not in cache
+326: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2509.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:55 2018
+326: not in cache
+322: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2166.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+323: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/164.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+321: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/227.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+322: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+322: Responding "HTTP/1.1 304 Not Modified"
+326: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/2509.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+329: "GET http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0222%2Fr331826_608x342_16%2D9.jpg&w=544&h=306&scale=crop&cquality=80&location=origin HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:55 2018
+329: not in cache
+323: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+323: Responding "HTTP/1.1 304 Not Modified"
+321: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+321: Responding "HTTP/1.1 304 Not Modified"
+326: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+326: Responding "HTTP/1.1 304 Not Modified"
+329: Requesting "GET http://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2018%2F0222%2Fr331826_608x342_16%2D9.jpg&w=544&h=306&scale=crop&cquality=80&location=origin HTTP/1.1" from a1.espncdn.com
+329: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+329: Responding "HTTP/1.1 304 Not Modified"
+325: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/9.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:55 2018
+325: not in cache
+324: "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/204.png&h=38&w=38 HTTP/1.1" from 107.15.241.23 @ Sat Mar  3 04:59:55 2018
+324: not in cache
+325: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/9.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+324: Requesting "GET http://a1.espncdn.com/combiner/i?img=/i/teamlogos/ncaa/500/204.png&h=38&w=38 HTTP/1.1" from a1.espncdn.com
+325: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+325: Responding "HTTP/1.1 304 Not Modified"
+324: Received "HTTP/1.1 304 Not Modified" from a1.espncdn.com
+324: Responding "HTTP/1.1 304 Not Modified"
